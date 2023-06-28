@@ -1,0 +1,19 @@
+collect.twitter
+Fri Apr 28 11:20:35 AM 2023
+2023-04-28 01:20:35 UTC
+
+searchTerm = #twice OR twice kpop
+searchType = recent
+numTweets = 1000
+lang = en
+includeRetweets = TRUE
+writeToFile = TRUE
+verbose = TRUE
+
+tweet        | status_id           | created            
+--------------------------------------------------------
+Latest Obs   | 1651758202940456960 | 2023-04-28 01:20:18
+Earliest Obs | 1651722929280012288 | 2023-04-27 23:00:08
+
+
+Fri Apr 28 1:20:56 AM 2023
